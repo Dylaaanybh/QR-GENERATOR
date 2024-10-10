@@ -1,0 +1,18 @@
+{
+    "name": "dylan/qr-generator",
+    "type": "project",
+    "require": {
+        "endroid/qr-code": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dylan\\QrGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dylan",
+            "email": "dylam2303@gmail.com"
+        }
+    ]
+}
